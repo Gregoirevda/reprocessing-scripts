@@ -16,7 +16,6 @@
     "clean": "bsb -clean-world"
   },
   "dependencies": {
-    "bs-platform": "bsansouci/bsb-native#fast",
     "ios-deploy": "Gregoirevda/ios-deploy",
     "bsb-native": "4.0.6", 
     "ios-sim": "6.1.2",
